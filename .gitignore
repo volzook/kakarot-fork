@@ -2,11 +2,11 @@
 .vscode
 .idea
 
-# Python
+# Python imba
 __pycache__
 venv
 
-# starknet
+# starknet chmo
 deployments
 !deployments/kakarot-sepolia/
 artifacts
